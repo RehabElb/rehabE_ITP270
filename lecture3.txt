@@ -1,0 +1,32 @@
+This is the 3rd lecture of ITP270.
+
+1- Movies 
+	- Actio
+		-scifi
+			-terminator.txt
+		-superheron
+		-batman.txt
+		-matrix-reloaded.txt
+		-matrix-revolutiuons.txt
+		-matrix.txt
+		-supermam.txt
+		-wonderwoman.txt
+	- Comedy
+		-slapstick
+			-waterboy.txt
+			-zoolander.txt
+		-satire
+			-fightclub.txt
+		-the-office.txt
+	- Drama
+		-biopic
+			-cleopatra.txt
+			-lincoln.txt
+			-frida.txt
+			-notorious.txt
+			-ray.txt
+		-historical
+			-gladiator.txt
+			-selma.txt
+	-genres.txt
+
