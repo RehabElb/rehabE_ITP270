@@ -1,0 +1,113 @@
+
+  280  cd ..
+  281  git status
+  282  git add -A
+  283  git status
+  284  git commit -m "Adding my work "
+  285  git push -u origin master https://github.com/RehabElb/rehabE_ITP270.git
+  286  git push -u origin https://github.com/RehabElb/rehabE_ITP270.git
+  287  git push
+  288  history
+  289  history
+  290  ls
+  291  cd rehabE_ITP270
+  292  nano add-local-user.sh
+  293  source ~/.bash_profile
+  294  nano  ~/.bash_profile
+  295  nano add-local-user.sh
+  296  chmod 755add-local-user.sh
+  297  chmod 755 add-local-user.sh
+  298  ./ add-local-user.sh
+  299  sudo ./ add-local-user.sh
+  300  sudo ./add-local-user.sh
+  301  sudo su -
+  302  sudo ./add-local-user.sh
+  303  nano bash_script_topics.txt
+  304  ls
+  305  cd linux_sysadmin
+  306  ls
+  307  nano add-local-user.sh
+  308  cd ..
+  309  nano add-local-user.sh
+  310  cd linux_sysadmin
+  311  nano add-local-user.sh
+  312  ./add-local-user.sh
+  313  sudo ./add-local-user.sh
+  314  cd ..
+  315  ls
+  316  ./add-local-user.sh
+  317  sudo ./add-local-user.sh
+  318  nano add-local-user.sh
+  319  sudo ./add-local-user.sh
+  320  chmod 755 ./add-local-user.sh
+  321  chmod 755 add-local-user.sh
+  322  ./add-local-user.sh
+  323  sudo ./add-local-user.sh
+  324  cat /etc/passwd
+  325  nano add-local-user.sh
+  326  sudo ./add-local-user.sh
+  327  nano add-local-user.sh
+  328  cat /etc/group
+  329  nano add-local-user.sh
+  330  sudo ./add-local-user.sh
+  331  cat /etc/group
+  332  cat /etc/passwd
+  333  history > /home/kali/rehabE_ITP270/project_1_commands.txt
+  334  ls
+  335  pwd
+  336  nano add-local-user.sh
+  337  man read bash
+  338  read --h
+  339  read -h
+  340  read -help
+  341  read -p reason
+  342  read -p reason why
+  343  htop
+  344  read -p reason why
+  345  nano add-local-user.sh
+  346  sudo ./add-local-user.sh
+  347  nano add-local-user.sh
+  348  sudo ./add-local-user.sh
+  349  nano add-local-user.sh
+  350  chmod 755 add-local-user.sh
+  351  sudo ./add-local-user.sh
+  352  nano add-local-user.sh
+  353  sudo ./add-local-user.sh
+  354  nano add-local-user.sh
+  355  sudo ./add-local-user.sh
+
+┌──(kali㉿kali)-[~]
+└─$ sudo ./add-local-user.sh                                                                                                                                                                                    1 ⨯
+Enter the username: tedison
+Enter the full name: Thomas Edison
+Enter the password: Light.Bulb1
+User name: 
+tedison
+Password: 
+Light.Bulb1
+Host: 
+kali
+                                                                                                                                                                                                                    
+┌──(kali㉿kali)-[~]
+└─$ sudo ./add-local-user.sh
+Enter the username: Isaac
+Enter the full name: Isaac Newton
+Enter the password: @ppleFell1666
+User name: 
+Isaac
+Password: 
+@ppleFell1666
+Host: 
+kali
+                                                                                                                                                                                                                    
+┌──(kali㉿kali)-[~]
+└─$ sudo ./add-local-user.sh
+Enter the username: Einstein
+Enter the full name: Albert Einstein
+Enter the password: E=mc2theory$
+User name: 
+Einstein
+Password: 
+E=mc2theory$
+Host: 
+kali
